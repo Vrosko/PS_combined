@@ -1,3 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Intro](../README.md)
+
+- [Defining the problem](./chapter_1.md)
