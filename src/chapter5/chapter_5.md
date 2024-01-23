@@ -38,4 +38,10 @@ We do not have any actuators apart from the robot, so no time-displacement diagr
 ## The setup in action
 Due to known unforeseen circumstances of this course, we currently can not show a working setup. However, a simulation video is coming.
 
-## Reflection
+## Review of implementation process
+The implementation process is ongoing.
+
+## Future improvements
+In the future, we would like to have more conversation with the supervising lecturer to see if we are going in the right direction. Also a more structured way of dividing actual lectures and "working" lectures would benefit us greatly.
+
+Besides that, a fixed robot setup, available at any given time during the minor would have had the greatest impact. 
