@@ -8,6 +8,8 @@ We made some sequence diagrams for different (standardized) parts of our system:
 
 #### Grabbing parts
 
+Grabbing parts is often the same in this proces, hence why it has a standardized flow.
+
 ``` plantuml
 
 @startuml 
@@ -35,6 +37,8 @@ rob -> plc : Response move
 
 #### Placing parts
 
+Often, also the mvoements for placing parts can be standardized.
+
 ``` plantuml
 @startuml
 control     PLC             as plc
@@ -55,6 +59,8 @@ rob -> plc : Response move
 ```
 
 #### Screwing parts
+
+Screwing parts is a bit harder, but if it happens, the routine of movements is the same.
 
 ``` plantuml
 
@@ -85,6 +91,7 @@ rob -> plc : Response move
 ```
 
 #### Parts stock checking
+Later in the project, we decided on using one sensor on the gripper to check if the magazine contains parts, instead of a sensor per magazine. This is cheaper, but require a bit more time for the robot to finish its program cycle. In a project in the real world, a sensor per magazine (position) is the better option if the process is time limited.
 
 ``` plantuml
 

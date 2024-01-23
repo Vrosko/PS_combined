@@ -55,6 +55,8 @@ end
 
 ## Activity in case of an empty storage
 
+This is what the robot needs to do in case of an empty storage.
+
 ```plantuml
 
 @startuml

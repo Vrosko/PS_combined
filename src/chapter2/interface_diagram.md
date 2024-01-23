@@ -7,7 +7,7 @@ This is the interface diagram. The interface diagram shows the way parts of the 
 
 [Proximity_sensor]
 [Tool]
-[Robot_affector]
+[Robot_effector]
 [Robot]
 [Controller]
 [Table]
@@ -21,11 +21,11 @@ Controller - Power
 Energy_supply <-- Controller
 Energy_supply - Powergrid
 
-Mounted - Robot_affector
+Mounted - Robot_effector
 Robot -> Location
 Power <-- Robot
 
-Robot_affector -> Connected
+Robot_effector -> Connected
 Proximity_sensor --> Mounted
 Connected - Robot
 
