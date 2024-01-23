@@ -16,6 +16,7 @@ A few prerequisites need to be met before this book can be rendered:
 - mdbook must be installed in order to build the book
 - The PlantUML plugin for mdbook must be installed
 - A PlantUML server must be running on port ```8080```
+- The "light" theme is recommended for this book
 
 Run the command ```mdbook serve --open``` to build the book and open it in your default browser.
 
