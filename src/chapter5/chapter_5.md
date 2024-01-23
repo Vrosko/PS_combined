@@ -9,3 +9,5 @@ We do not have any actuators apart from the robot, so no time-displacement diagr
  
 ## The setup in action
 Due to known unforeseen circumstances of this course, we currently can not show a working setup. However, a simulation video is coming.
+
+## Reflection

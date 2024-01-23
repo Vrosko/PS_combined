@@ -6,4 +6,4 @@ This norm has the guidelines for the minimum distance of light curtains to dange
 
 ![Calulations](../images/lightcurtainequation.png)
 
-This means that our light curtains need to be at least 206 mm from our robot while the robot reaches out as far as it can.
+This means that our light curtains need to be at least 206 mm from our robot while the robot reaches out as far as it can. The chosen light curtain is the SICK C4MT-05434ABB03DB0, which has Performance Level e. The light curtain will be used around the robot with the help of mirrors.
